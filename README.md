@@ -25,4 +25,4 @@ The survey data describes different driving scenarios and then asks people wheth
    for the drivers. Possibly, coupons with restriction of use could be good option.
 
 # Link to Jupyter notebook
-[click here](www.google.com)
+[notebook link](https://github.com/vishalnigam/ml-coupon-acceptance/blob/main/prompt.ipynb)
